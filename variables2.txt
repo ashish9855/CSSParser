@@ -1,0 +1,52 @@
+
+.hell0_ee{
+font-size:27;
+font-family:Marion-Regular;
+text-color:#000340;
+}
+.hell0_ee1{
+border-radius: 10;
+border-width:3;
+background-color: #000000;border-color:#949494;background-image:45S135W;font-size:50;font-family:Marion-Regular;text:hello;
+}
+.hell0_ee2{
+font-color: #000d000;
+font-size: #0000d00;
+back-color: #0030000;font-adjust: #0003000;
+}
+.hell0_ee3{
+font-color: #00034000;font-size: #000000;
+back-color: #00034000;font-adjust: #0030000;
+}
+hell0,hell1,
+hell2{
+font-color: #00034000;font-size: #000000;
+back-color: #00034000;font-adjust: #0030000;
+}
+
+/*sdadadds asdad
+*/
+
+/* dddadad */
+
+// eqeqeqe
+//weqeeqe.
+
+#id
+{
+font-color: #we;
+}
+id
+{
+font-color: #00034000;
+}
+
+.rounded_corners {
+-moz-border-radius: 8px;
+-webkit-border-radius: 8px;
+border-radius: 8px;
+}
+/*
+
+*/
+
